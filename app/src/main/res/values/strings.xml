@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Screen Sage</string>
+    <string name="accessibility_service_description">Screen Sage Accessibility Service for text selection detection</string>
+    <string name="overlay_notification_title">Screen Sage is running</string>
+    <string name="overlay_notification_text">Tap to access AI assistant</string>
+</resources>

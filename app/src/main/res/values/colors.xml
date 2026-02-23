@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#FF2196F3</color>
+    <color name="primary_blue_dark">#FF1976D2</color>
+    <color name="primary_blue_light">#FF64B5F6</color>
+    
+    <!-- Secondary Colors -->
+    <color name="secondary_accent">#FF03DAC5</color>
+    <color name="secondary_accent_dark">#FF018786</color>
+    
+    <!-- Neutral Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_900">#FF212121</color>
+    <color name="gray_800">#FF424242</color>
+    <color name="gray_700">#FF616161</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="gray_500">#FF9E9E9E</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_300">#FFE0E0E0</color>
+    <color name="gray_200">#FFEEEEEE</color>
+    <color name="gray_100">#FFF5F5F5</color>
+    
+    <!-- Status Colors -->
+    <color name="error_red">#FFF44336</color>
+    <color name="success_green">#FF4CAF50</color>
+    <color name="warning_orange">#FFFF9800</color>
+    
+    <!-- Overlay Colors -->
+    <color name="overlay_dark_70">#B3000000</color>
+    <color name="overlay_dark_85">#D9000000</color>
+    <color name="overlay_dark_90">#E6000000</color>
+</resources>
