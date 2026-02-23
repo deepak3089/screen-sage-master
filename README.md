@@ -62,6 +62,7 @@ app/src/main/java/com/example/screensage/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/deepak3089/screen-sage-master.git
+
 Open in Android Studio
 
 Open the project
